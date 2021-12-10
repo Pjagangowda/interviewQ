@@ -1,0 +1,35 @@
+diff b/w igw and nat-gateway ?
+
+what is secrity group ?
+
+explain about autoscalling ?
+
+mysql which type of database ?
+
+how many types u access outside the service ?
+
+what is alb ?
+
+which tool using for version control in u r organization ?
+
+waht is cron job in jenkins ?
+
+are worked in scripted pipeline ?
+
+how to add users in jenkins ?
+
+docker file ?
+
+diff b/w cmd and entrypoint ?
+
+what is multistage dockerfile ?
+
+
+
+
+
+
+
+
+
+

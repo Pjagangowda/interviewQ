@@ -1,0 +1,43 @@
+diff b/w secqurity group and nacl ?
+
+do have experience in r53 service ?
+
+s3 which type of storage ?
+
+explain s3 lifecycle ?
+
+gitclone and git fetch ?
+
+how to push the code in conflit time ?
+
+docker life cycle ?
+
+docker build cmd ?
+
+what is -t ?
+
+you have image and you alredy build by image and how to access outside can explain step by step ?
+
+what is -d and -p ?
+
+what is shell script ?
+
+what is terraform ?
+
+which modules are using in terraform ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

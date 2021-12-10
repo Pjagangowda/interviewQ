@@ -1,0 +1,41 @@
+diff b/w vertical autoscalling and horizontal autoscalling ?
+
+how to increce volume running ec2 mechine ?
+
+diff b/w ebs and efs ?
+
+what is aws resource autoscalling ?
+
+diff b/w recordset and namespace ?
+
+how to parameterized in jenkins job ?
+
+master and slave diffrences ?
+
+what is stages in declarative pipeline ?
+
+what is docker file ?
+
+diff cmd and entrypoint ?
+
+docker build and run commands ?
+
+what is service object in k8s ?
+
+master and worker node components ?
+
+i have to run two pods and one pod is down onther pod running or not ?
+
+what is diff pod and deployment ?
+
+what is terraform statefile ?
+
+what terraform d ?
+
+terraform drift ? 
+
+
+
+
+
+

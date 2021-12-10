@@ -1,0 +1,45 @@
+which resources are u working in aws cloud ?
+
+what is vpc peering , why peering ?
+
+explain u can create vpc how to u create ?
+
+which rds u r worked in ?
+
+tell me steps cicd ?
+
+how can u clone the code and to push to the scm explain like comands ?
+
+how many type pipeline in jenkins ?
+
+diff b/w declarative pipeline and scripted pipeline ?
+
+what is polescm ?
+
+what is cronjob how to u can setup and where u enable it ?
+
+which plugin u can installed in jenkin console for kubernetes ?
+
+how to u deploy the application in kubernetes tell me syntax ?
+
+what is ingresscontroller ?
+
+which resoureses are u provizened with terraform ?
+
+where u are stored terraform statefile ?
+
+terraform workspace ?
+
+what is output.tf ?
+
+what is terrform statefile ?
+
+
+
+
+
+
+
+
+
+

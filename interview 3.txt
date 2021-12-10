@@ -1,0 +1,45 @@
+what is elb ?
+
+diff b/w alb and clb ?
+
+why secqurity group stateful and why not nacl ?
+
+target group ?
+
+why use r53 ?
+
+s3 are blockstorage ?
+
+s3 lifecycle ?
+
+how to parametrized in freestyle ?
+
+what is cron job ?
+
+at a time how many jobs run in jenkins console ?
+
+what is diff master and node ?
+
+git life cycle ?
+
+diff b/w cmd and entrypoint ?
+
+what diff vertuvailazation and containrization ?
+
+what is deployment objects ?
+
+how many types in service ?
+
+what is stateful ?
+
+what is tf statefile ?
+
+terraform taint ?
+
+terraform modules ?
+
+
+
+ 
+
+ 

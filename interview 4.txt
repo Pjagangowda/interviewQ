@@ -1,0 +1,60 @@
+git clone
+
+master
+
+ecolite
+
+git pull
+
+git checkout ecolite
+
+git push 
+
+git push origin ecolite ofter master
+
+featur eco 
+
+
+docker latest
+prod
+
+docker file
+
+docker build -t latest .
+ to  image to ecr 
+ofter 
+docker run -d -p 8080:80 latest
+
+
+iac vpc and ec2 rds 
+
+
+
+
+
+local a.k sk
+
+count = 10 and more
+
+
+shell script : collection of unix commands
+
+
+/opt wget installing the java 
+
+unzip 
+
+exit
+
+/opt jenkins
+
+
+start service 
+
+enable service
+
+finally we can status
+
+
+
+

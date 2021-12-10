@@ -1,0 +1,14 @@
+Q.Tell me Docker orchitecture ?
+Q.How to you run application with backend and frontend in Docker ?
+Q.What is d in Docker ?
+Q.For example u run ten containers how it will work d ? how it will be specify port num u will get the por mapping ?
+Q.Is possible Docker file run in k8s ?
+Q.Difference between stateful and stateless in k8s ?
+Q.Why ETCD ?
+Q.How many types of networking objects ?
+Q.How it will be work clusterIp ?
+Q.What is namespace ?
+Q.Most of the time all activities done with master are workernode ?
+Q.what is master components ?
+
+ 

@@ -1,0 +1,19 @@
+Q.For example running the ten vms with one vpc and one vm have service stop but in the vm application requests is comming i want to stop perticuler public ip ?
+
+Q.I have one vm in orgin and one vm is in ohio how to i connect ?
+
+Q.As possible vpc peering default vpcs?
+
+Q.Telme about autoscalling ?
+
+Q.Is possible autoscalling without load balancer ?
+
+Q.I have one frontend and backend how to i connect the two vms in the docker ?
+
+Q.Do know abuot kafka ?
+
+Q.Which montoring tool know you ?
+
+Q.How to alerts in grafana ?
+
+
