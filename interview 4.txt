@@ -1,8 +1,14 @@
+1. What is CiCd?
+screen sharing
+2. How to parameter the file cmd to shell scripting?
+3. Git lifecycle
+  
 git clone
+4. What is MR and PR?
+5. How to resolve conflict
+Branch1) master
 
-master
-
-ecolite
+Branch2) ecolite
 
 git pull
 
@@ -12,9 +18,9 @@ git push
 
 git push origin ecolite ofter master
 
-featur eco 
+feature eco Branch
 
-
+4. Can you explain the Docker file and port mapping?
 docker latest
 prod
 
@@ -25,35 +31,22 @@ docker build -t latest .
 ofter 
 docker run -d -p 8080:80 latest
 
+Which modules are you using
+ VPC and ec2 rds 
 
-iac vpc and ec2 rds 
-
-
-
-
-
-local a.k sk
-
+local a.k SK
+Server attache IAM role
 count = 10 and more
-
-
-shell script : collection of unix commands
-
-
+shell script: a collection of Unix commands
+Bootup time speed to reduce manual interaction. 
+time saving process
 /opt wget installing the java 
-
 unzip 
-
 exit
-
-/opt jenkins
-
-
+/opt, Jenkins
 start service 
-
 enable service
-
-finally we can status
+finally, we can check the status
 
 
 
