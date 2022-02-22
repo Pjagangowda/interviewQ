@@ -1,30 +1,122 @@
-diff b/w secqurity group and nacl ?
+diff b/w security group and NaCl?
 
-do have experience in r53 service ?
+do have experience in the r53 service?
 
-s3 which type of storage ?
+s3 which type of storage?
 
-explain s3 lifecycle ?
+explain s3 lifecycle? 
 
-gitclone and git fetch ?
+What is permission Boundary in s3?
 
-how to push the code in conflit time ?
+git-clone and git fetch?
 
-docker life cycle ?
+how to push the code in conflict time?
 
-docker build cmd ?
+docker life cycle?
 
-what is -t ?
+Does docker file build with cmd?
 
-you have image and you alredy build by image and how to access outside can explain step by step ?
+what is -t?
 
-what is -d and -p ?
+you have an image and you already built it by image and how to access outside can explain step by step?
 
-what is shell script ?
+what is -d and -p?
 
-what is terraform ?
+what is a shell script?
 
-which modules are using in terraform ?
+what is terraform?
+
+which modules are used in terraform?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+diff b/w security group and NaCl?
+
+do have experience in the r53 service?
+
+s3 which type of storage?
+
+explain s3 lifecycle? 
+
+What is permission Boundary in s3?
+
+git-clone and git fetch?
+
+how to push the code in conflict time?
+
+docker life cycle?
+
+Does docker file build with cmd?
+
+what is -t?
+
+you have an image and you already built it by image and how to access outside can explain step by step?
+
+what is -d and -p?
+
+what is a shell script?
+
+what is terraform?
+
+which modules are used in terraform?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+diff b/w security group and NaCl?
+
+do have experience in the r53 service?
+
+s3 which type of storage?
+
+explain s3 lifecycle? 
+
+What is permission Boundary in s3?
+
+git-clone and git fetch?
+
+how to push the code in conflict time?
+
+docker life cycle?
+
+Does docker file build with cmd?
+
+what is -t?
+
+you have an image and you already built it by image and how to access outside can explain step by step?
+
+what is -d and -p?
+
+what is a shell script?
+
+what is terraform?
+
+which modules are used in terraform?
 
 
 
