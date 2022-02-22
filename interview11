@@ -1,59 +1,224 @@
-Data Glove IT Solutions Interview Queations ?
+Data Glove IT Solutions Interview Questions?
 
+1. What is a cloud trial?
 
-1. Diff between sequrity group and Nacl ?
+2. What is Cloudwatch?
 
-2. What is Cloudwatch ?
+3. Diff between security group and Nacl?
 
-3. What is Cloud trail ?
+4. Explain Cloud formation?
 
-4. Explain about Cloud formation ?
+5. Which tool you are using CICD?
 
-5. Which tool you are using CICD ?
+6. Diff between Declarative pipeline and Scripted pipeline?
 
-6. Diff between Declarative pipeline and Scripted pipeline ?
+7. How to trigger the job into the Jenkins?
 
-7. How to trigger the job into the Jenkins ?
+8. How to parameterize jobs in the Declarative pipeline?
 
-8. How to parameteraized job in the Declarative pipeline ?
+9. Image running a command in Docker?
 
-9. Image running command in Docker ?
+10. What is -d and -p?
 
-10. What is -d and -p ?
+11. Do You have an image and how to connect to the ECR to s3?
 
-11. You have image and how to connect to the ecr to s3 ?
+12. Which type of storage s3?
 
-12. Which type storage s3 ?
+14. What is Apache?
 
-14. What is Apache ?
+15. Cluster version?
 
-15. Cluster version ?
+16. What is Kubeproxy?    
 
-16. What is Kubeproxy ?    
+17. What is Kublet?
 
-17. What is Kublet ?
+18. What is Seduler&Controller?
 
-18. What is Seduler&Controller ?
+19. Eks ctl Command?
 
-19. Eks ctl Command ?
+20. What is a service object?
 
-20. What is service object ?
+21. What Modules you can use in Terraform?
 
-21. What Modules you can used by in Terraform ?
+22. How to write shell scripting? 
 
-22. How to write shell scripting ? A. Collection of unix commands is called shell scripting.
+23. which cmd to use to see the I.P address?  A.nslookup
 
- Linux
+24. Internally and Remotely port are services listen or not used by cmds ?   telnet port num.
 
-23. which cmd to use to see the I.P address ?  A.nslookup
+25. Process ID cmd? ps -ef | grep -i process Id.
 
-24. Internally and Remotly port are service listen or not used by cmds ? - netstat -anlp | grep -i port.  ,  telnet portnum.
+26. Why do we use TOP cmd & last cmd?
 
-25. Process ID cmd ? ps -ef | grep -i process Id.
+27. Which Ubuntu version using?
+ 
+   
+  
+Data Glove IT Solutions Interview Questions?
 
-26. Why do we use TOP cmd & last cmd ?
+1. What is a cloud trial?
 
-27. Which Ubuntu version using ?
+2. What is Cloudwatch?
+
+3. Diff between security group and Nacl?
+
+4. Explain Cloud formation?
+
+5. Which tool you are using CICD?
+
+6. Diff between Declarative pipeline and Scripted pipeline?
+
+7. How to trigger the job into the Jenkins?
+
+8. How to parameterize jobs in the Declarative pipeline?
+
+9. Image running a command in Docker?
+
+10. What is -d and -p?
+
+11. Do You have an image and how to connect to the ECR to s3?
+
+12. Which type of storage s3?
+
+14. What is Apache?
+
+15. Cluster version?
+
+16. What is Kubeproxy?    
+
+17. What is Kublet?
+
+18. What is Seduler&Controller?
+
+19. Eks ctl Command?
+
+20. What is a service object?
+
+21. What Modules you can use in Terraform?
+
+22. How to write shell scripting? 
+
+23. which cmd to use to see the I.P address?  A.nslookup
+
+24. Internally and Remotely port are services listen or not used by cmds ?   telnet port num.
+
+25. Process ID cmd? ps -ef | grep -i process Id.
+
+26. Why do we use TOP cmd & last cmd?
+
+27. Which Ubuntu version using?
+ 
+   
+  
+Data Glove IT Solutions Interview Questions?
+
+1. What is a cloud trial?
+
+2. What is Cloudwatch?
+
+3. Diff between security group and Nacl?
+
+4. Explain Cloud formation?
+
+5. Which tool you are using CICD?
+
+6. Diff between Declarative pipeline and Scripted pipeline?
+
+7. How to trigger the job into the Jenkins?
+
+8. How to parameterize jobs in the Declarative pipeline?
+
+9. Image running a command in Docker?
+
+10. What is -d and -p?
+
+11. Do You have an image and how to connect to the ECR to s3?
+
+12. Which type of storage s3?
+
+14. What is Apache?
+
+15. Cluster version?
+
+16. What is Kubeproxy?    
+
+17. What is Kublet?
+
+18. What is Seduler&Controller?
+
+19. Eks ctl Command?
+
+20. What is a service object?
+
+21. What Modules you can use in Terraform?
+
+22. How to write shell scripting? 
+
+23. which cmd to use to see the I.P address?  A.nslookup
+
+24. Internally and Remotely port are services listen or not used by cmds ?   telnet port num.
+
+25. Process ID cmd? ps -ef | grep -i process Id.
+
+26. Why do we use TOP cmd & last cmd?
+
+27. Which Ubuntu version using?
+ 
+   
+  
+Data Glove IT Solutions Interview Questions?
+
+1. What is a cloud trial?
+
+2. What is Cloudwatch?
+
+3. Diff between security group and Nacl?
+
+4. Explain Cloud formation?
+
+5. Which tool you are using CICD?
+
+6. Diff between Declarative pipeline and Scripted pipeline?
+
+7. How to trigger the job into the Jenkins?
+
+8. How to parameterize jobs in the Declarative pipeline?
+
+9. Image running a command in Docker?
+
+10. What is -d and -p?
+
+11. Do You have an image and how to connect to the ECR to s3?
+
+12. Which type of storage s3?
+
+14. What is Apache?
+
+15. Cluster version?
+
+16. What is Kubeproxy?    
+
+17. What is Kublet?
+
+18. What is Seduler&Controller?
+
+19. Eks ctl Command?
+
+20. What is a service object?
+
+21. What Modules you can use in Terraform?
+
+22. How to write shell scripting? 
+
+23. which cmd to use to see the I.P address?  A.nslookup
+
+24. Internally and Remotely port are services listen or not used by cmds ?   telnet port num.
+
+25. Process ID cmd? ps -ef | grep -i process Id.
+
+26. Why do we use TOP cmd & last cmd?
+
+27. Which Ubuntu version using?
  
    
   
