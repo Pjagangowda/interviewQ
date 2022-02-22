@@ -1,19 +1,94 @@
-Q.What is subnet ?
+Q.What is a subnet?
 
-Q.Why EIP ?
+Q.Why EIP?
 
-Q.Telme about ec2 and security group ?
+Q.Telme about ec2 and security group?
 
-Q.how to you create user in mysql ?
+Q.how do you create a user in MySQL?
 
-Q.I don't want need to connect mysql server and create user ? If any option ?
+Q.I don't want need to connect to the Mysql server and create a user? If any option?
 
-Q.Which pipeline you are work with Freestyle or pipeline ?
+Q.Which pipeline do you are working with Freestyle or pipeline?
 
-Q.What is stages in declarative pipeline ?
+Q.What are the stages in the declarative pipeline?
 
-Q.How can install sonarqube plugin and configuration ?
+Q.How can install sonarqube plugin and configuration?
 
-Q.In jenkins how many jobs run parllel ?
+Q.In Jenkins, how many jobs run parallel?
+
+
+Q.What is a subnet?
+
+Q.Why EIP?
+
+Q.Telme about ec2 and security group?
+
+Q.how do you create a user in MySQL?
+
+Q.I don't want need to connect to the Mysql server and create a user? If any option?
+
+Q.Which pipeline do you are working with Freestyle or pipeline?
+
+Q.What are the stages in the declarative pipeline?
+
+Q.How can install sonarqube plugin and configuration?
+
+Q.In Jenkins, how many jobs run parallel?
+
+
+Q.What is a subnet?
+
+Q.Why EIP?
+
+Q.Telme about ec2 and security group?
+
+Q.how do you create a user in MySQL?
+
+Q.I don't want need to connect to the Mysql server and create a user? If any option?
+
+Q.Which pipeline do you are working with Freestyle or pipeline?
+
+Q.What are the stages in the declarative pipeline?
+
+Q.How can install sonarqube plugin and configuration?
+
+Q.In Jenkins, how many jobs run parallel?
+
+
+Q.What is a subnet?
+
+Q.Why EIP?
+
+Q.Telme about ec2 and security group?
+
+Q.how do you create a user in MySQL?
+
+Q.I don't want need to connect to the Mysql server and create a user? If any option?
+
+Q.Which pipeline do you are working with Freestyle or pipeline?
+
+Q.What are the stages in the declarative pipeline?
+
+Q.How can install sonarqube plugin and configuration?
+
+Q.In Jenkins, how many jobs run parallel?
+
+Q.What is a subnet?
+
+Q.Why EIP?
+
+Q.Telme about ec2 and security group?
+
+Q.how do you create a user in MySQL?
+
+Q.I don't want need to connect to the Mysql server and create a user? If any option?
+
+Q.Which pipeline do you are working with Freestyle or pipeline?
+
+Q.What are the stages in the declarative pipeline?
+
+Q.How can install sonarqube plugin and configuration?
+
+Q.In Jenkins, how many jobs run parallel?
 
 
