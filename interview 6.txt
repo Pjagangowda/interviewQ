@@ -1,38 +1,83 @@
-which resources are u working in aws cloud ?
+which resources are u working on in the AWS cloud?
 
-what is vpc peering , why peering ?
+what is VPC peering, why peering?
 
-explain u can create vpc how to u create ?
+explain u can create VPC?
 
-which rds u r worked in ?
+which rds u r worked in?
 
 tell me steps cicd ?
 
-how can u clone the code and to push to the scm explain like comands ?
+how can u clone the code and push it to the SCM explain like commands?
 
-how many type pipeline in jenkins ?
+how many types of pipelines are in Jenkins?
 
-diff b/w declarative pipeline and scripted pipeline ?
+diff b/w declarative pipeline and scripted pipeline?
 
-what is polescm ?
+what is pole SCM?
 
-what is cronjob how to u can setup and where u enable it ?
+what is cronjob how u can set up and where u enable it?
 
-which plugin u can installed in jenkin console for kubernetes ?
+which plugin u can install in the Jenkins console for Kubernetes?
 
-how to u deploy the application in kubernetes tell me syntax ?
+how do u deploy the application in Kubernetes tell me syntax?
 
 what is ingresscontroller ?
 
-which resoureses are u provizened with terraform ?
+which resources are u provided with terraform?
 
-where u are stored terraform statefile ?
+where u are stored terraform state files?
 
-terraform workspace ?
+terraform workspace?
 
 what is output.tf ?
 
-what is terrform statefile ?
+what is terraform state file?
+
+
+
+
+
+
+
+
+
+
+which resources are u working on in the AWS cloud?
+
+what is VPC peering, why peering?
+
+explain u can create VPC?
+
+which rds u r worked in?
+
+tell me steps cicd ?
+
+how can u clone the code and push it to the SCM explain like commands?
+
+how many types of pipelines are in Jenkins?
+
+diff b/w declarative pipeline and scripted pipeline?
+
+what is pole SCM?
+
+what is cronjob how u can set up and where u enable it?
+
+which plugin u can install in the Jenkins console for Kubernetes?
+
+how do u deploy the application in Kubernetes tell me syntax?
+
+what is ingresscontroller ?
+
+which resources are u provided with terraform?
+
+where u are stored terraform state files?
+
+terraform workspace?
+
+what is output.tf ?
+
+what is terraform state file?
 
 
 
