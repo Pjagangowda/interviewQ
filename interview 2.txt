@@ -1,38 +1,36 @@
-diff b/w vertical autoscalling and horizontal autoscalling ?
+diff b/w vertical autoscaling and horizontal autoscalling ?
 
-how to increce volume running ec2 mechine ?
+how to increase volume running ec2 machine?
 
-diff b/w ebs and efs ?
+diff b/w EBS and EFS?
 
-what is aws resource autoscalling ?
+diff b/w recordset and namespace?
 
-diff b/w recordset and namespace ?
+how to parameterize in Jenkins job?
 
-how to parameterized in jenkins job ?
+master and slave differences?
 
-master and slave diffrences ?
+what are the stages in the declarative pipeline?
 
-what is stages in declarative pipeline ?
+what is a docker file?
 
-what is docker file ?
+diff cmd and entry point?
 
-diff cmd and entrypoint ?
+docker build and run commands?
 
-docker build and run commands ?
+what is the service object in k8s?
 
-what is service object in k8s ?
+master and worker node components?
 
-master and worker node components ?
+I have to run two pods and one pod is down another pod each pod runs different applications running or not? I don't want to need downtime? How to resolve this.
 
-i have to run two pods and one pod is down onther pod running or not ?
-
-what is diff pod and deployment ?
+what is diff pod and deployment?
 
 what is terraform statefile ?
 
-what terraform d ?
+what terraform d?
 
-terraform drift ? 
+terraform drift? 
 
 
 
